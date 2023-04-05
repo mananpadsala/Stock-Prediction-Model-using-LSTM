@@ -1,4 +1,4 @@
-# Stock Prediction Model using LSTM
+# MarketMagicAI: Stock Prediction Model using LSTM
 This project aims to predict the future stock prices of a company using historical stock data and a Long Short-Term Memory (LSTM) model.
 
 ## Data
